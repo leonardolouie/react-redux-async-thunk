@@ -1,3 +1,8 @@
+
+REDUX THUNK MIDDLEWARE
+
+passing the function not object solutionn ! 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
